@@ -1,7 +1,7 @@
 # Proyecto NAME_PROYECTO
 
 Descripción del proyecto...  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut feugiat pulvinar accumsan. Aenean in nisi erat. In euismod laoreet felis dapibus varius. Donec vestibulum est sed mauris dictum tincidunt. In finibus orci ut libero scelerisque, eget condimentum neque tincidunt. Vestibulum ornare consequat aliquam. **Quisque eget** sollicitudin turpis, at laoreet nibh. Nunc ac interdum nibh. Mauris luctus, felis quis tempus ultrices, arcu nulla varius augue, vel ornare nisl arcu quis erat. Phasellus tincidunt sed nisl eu pretium. Aliquam erat volutpat. Cras tincidunt sapien sem, in convallis neque ultricies eget. Nulla ipsum massa, tempus in ligula et, ultricies imperdiet ex.
-**Historias de usuarrio**
+**Historias de usuario**
 1. Sed nec urna dapibus, varius neque nec, varius odio. 
 2. Duis commodo mattis dolor, eu faucibus lorem feugiat ut. 
 3. Nam a ex id arcu scelerisque fringilla at vitae erat. 
@@ -11,10 +11,13 @@ Descripción del proyecto...  Lorem ipsum dolor sit amet, consectetur adipiscing
 ## HU1: Crear algo_
 
 Descripción. ajaahahaasjshs 
+
 Colocas un enlace 
 Figma [HU1: Mi historia de usuario](http://www.figma.com/)
+
 O una imagen: 
 ![Esta es una imagen de ejemplo](https://upload.wikimedia.org/wikipedia/commons/6/64/Ejemplo.png)
+
 O una imagen con link
 [![Esta es una imagen de ejemplo](https://upload.wikimedia.org/wikipedia/commons/6/64/Ejemplo.png)](https://www.google.com)
 

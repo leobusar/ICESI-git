@@ -12,7 +12,7 @@ Descripción del proyecto...  Lorem ipsum dolor sit amet, consectetur adipiscing
 
 Descripción
 
-Colocas un enlace 
+Colocas un enlace: 
 Figma [HU1: Mi historia de usuario](http://www.figma.com/)
 
 O una imagen: 
